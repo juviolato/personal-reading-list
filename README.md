@@ -1,3 +1,3 @@
 - Using MERN
 - Deployed on Heroku
-- Database hosted on MLab
+- Database hosted on MLab (temporarily disabled)
